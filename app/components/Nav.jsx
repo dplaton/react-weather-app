@@ -5,7 +5,7 @@ var Nav = React.createClass({
 
     onSearch: function (event) {
         event.preventDefault();
-        alert('Does not work');
+        alert('Does not work yet');
     },
 
     render: function () {
