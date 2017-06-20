@@ -16,7 +16,7 @@ var About = React.createClass({
 var About = (props) => {
     return(
         <div>
-            <h1 className="text-center">About</h1>
+            <h1 className="text-center pageTitle">About</h1>
             <p>Weather can be a pain in the ass. It can be your friend, or it can be your enemy. It can add sprinkles and joy to your otherwise sad day, or it can ruin your date. </p>
             <p>Stay safe. Stay dry. Stay positive. Use our weather app</p>
         </div>
